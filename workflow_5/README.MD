@@ -1,5 +1,4 @@
-# Uptake Project 18 - DPIRD
-## Sam Hair
+## SDH, DPIRD WA
 
 This is a project for porting existing workflows into Zeus on an all-open source software stack.
 
