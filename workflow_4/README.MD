@@ -14,6 +14,7 @@ Adaptation of exiting [dpird-mk_GitHub](https://github.com/PawseySC/dpird-mk) wo
 This workflow is for the assembly, BLAST analysis and mapping of illumina reads for the purpose of pathogen discovery. 
 
 Variation on wf1;
+	
 	- Input		= Interleaved reads via the bbmap reformat.sh tool (R1&R2.fastq.gz > interleaved.fastq.gz)
 	
 	- Assembly 	= Careful flag (SPAdes)
