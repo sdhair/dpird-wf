@@ -18,7 +18,7 @@ Variation on wf1
 	- Input		= Interleaved reads via the bbmap reformat.sh tool (R1&R2.fastq.gz > interleaved.fastq.gz)
 
 	- Assembly 	= Careful flag (SPAdes)
-              = Plasmid flag (SPAdes) 
+             		= Plasmid flag (SPAdes) 
 
 	- BLAST		= num_alignments 1   
 
