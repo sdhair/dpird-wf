@@ -9,16 +9,25 @@ requirements, visualisation tools.
 Adaptation of exiting [dpird-mk_GitHub](https://github.com/PawseySC/dpird-mk) workflow
 
 
-### wf5 - Worlkflow 5 
+### wf9 - Worlkflow 9 
 
-This workflow is for the assembly, BLAST analysis and mapping of illumina reads for the purpose of pathogen discovery. 
+This workflow is for the assembly, BLAST analysis and mapping of illumina reads for the purpose of assembling and detecting plasmids (and potentially mitochondrial genomes). 
 
 Variation on wf1
+<<<<<<< HEAD:wf9_plasmid_blast20/README.MD
+
+	- Input		= Interleaved reads via the bbmap reformat.sh tool (R1&R2.fastq.gz > interleaved.fastq.gz)
+
+	- Assembly 	= Careful flag (SPAdes)
+              = Plasmid flag (SPAdes) 
+
+=======
 	
 	- Input		= Interleaved reads via the bbmap reformat.sh tool (R1&R2.fastq.gz > interleaved.fastq.gz)
 	
 	- Assembly 	= Careful flag (SPAdes)
 	
+>>>>>>> 19313230ec0ab4df810a147a6a290d8d4aae2561:workflow_5/README.MD
 	- BLAST		= num_alignments 20   
 
 Find us on [GitHub](https://github.com/sdhair/dpird-wf/).
