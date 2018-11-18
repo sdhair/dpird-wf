@@ -21,4 +21,4 @@ Variation on wf1;
 	
 	- BLAST		= num_alignments 1   
 
-Find us on [GitHub](https://github.com/sdhair/dpird-wf/)
+Find us on [GitHub](https://github.com/sdhair/dpird-wf/).
