@@ -9,7 +9,7 @@ requirements, visualisation tools.
 Adaptation of exiting [dpird-mk_GitHub](https://github.com/PawseySC/dpird-mk) workflow.
 
 
-###wf4 - Worlkflow 4 
+### wf4 - Worlkflow 4 
 
 This workflow is for the assembly, BLAST analysis and mapping of illumina reads for the purpose of pathogen discovery. 
 
