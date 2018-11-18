@@ -1,4 +1,4 @@
-## SDH, DPIRD
+## SDH, DPIRD WA
 
 This is a project for porting existing workflows into Zeus on an all-open source software stack.
 
@@ -7,7 +7,6 @@ Computing: containerisation, workflow automation (bash), porting of input parame
 requirements, visualisation tools.
 
 Adaptation of exiting [dpird-mk_GitHub](https://github.com/PawseySC/dpird-mk) workflow.
-
 
 ### wf4 - Worlkflow 4 
 
