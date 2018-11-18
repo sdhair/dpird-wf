@@ -15,10 +15,10 @@ This workflow is for the assembly, BLAST analysis and mapping of illumina reads 
 
 Variation on wf1
 	
-  - Input		  = Interleaved reads via the bbmap reformat.sh tool (R1&R2.fastq.gz > interleaved.fastq.gz)
+	- Input		  = Interleaved reads via the bbmap reformat.sh tool (R1&R2.fastq.gz > interleaved.fastq.gz)
 	
-  - Assembly 	= Careful flag (SPAdes)
+  	- Assembly 	= Careful flag (SPAdes)
 	
-  - BLAST		  = num_alignments 20   
+  	- BLAST		  = num_alignments 20   
 
 Find us on [GitHub](https://github.com/sdhair/dpird-wf/).
