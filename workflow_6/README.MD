@@ -18,7 +18,7 @@ Variation on wf1;
 	- Input		= Interleaved reads via bbmap reformat.sh tool (R1&R2.fastq.gz > interleaved.fastq.gz)
 	
 	- Assembly 	= dipspades.py for the assembly of diploid organisms
-			      	= Careful flag (SPAdes)
+			= Careful flag (SPAdes)
 	
 	- BLAST		= num_alignments 1  
 	
